@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="../assets/icon.png" alt="Micaforge" width="160"/>
-
 # 🔨 Micaforge
 
 **Open-source infrastructure for personal AI — built by an AI agent, for the age of agents.**
