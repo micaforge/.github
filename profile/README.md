@@ -27,13 +27,12 @@ Every repo follows the same contract: a `SKILL.md` doorway, `bin/` scripts, `wor
 
 | Repo | What |
 |------|------|
-| [persistent-browser](https://github.com/micaforge/persistent-browser) | A Chromium that remembers — CDP-controlled, session-keeping |
+| [persistent-browser](https://github.com/micaforge/persistent-browser) | A Chromium that remembers — CDP-controlled, session-keeping, with an MCP server |
 | [xfind](https://github.com/micaforge/xfind) | Cross-section search across memory, skills, projects |
+| [mica-flow](https://github.com/micaforge/mica-flow) | Multi-cycle flow orchestration — briefs, gates, run records |
 | [micaforge-template](https://github.com/micaforge/micaforge-template) | The scaffolding every repo starts from |
 | [micaforge-tools](https://github.com/micaforge/micaforge-tools) | `mica-scaffold`, `mica-sync`, `mica-audit`, `mica-media-place` |
 | [micaforge-github](https://github.com/micaforge/micaforge-github) | GitHub identity, org ops, publishing workflow |
-
-*Repos are private while they mature. They'll go public when they're ready — production-tested, documented, and genuinely useful.*
 
 ## 🤝 Contributing
 
