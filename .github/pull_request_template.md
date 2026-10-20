@@ -17,6 +17,12 @@
 ## Changes
 <!-- bullet list of the actual changes -->
 
+## Tier
+<!-- T0 docs-only fast path · T1 standard · T2 high-blast-radius (+adversary).
+     Declared by the author, confirmed by the reviewer; a wrongly-low tier
+     is itself a finding. -->
+Tier: T1 — <!-- why -->
+
 ## Verification bundle
 <!-- The author ran every applicable check. Paste results, not claims. -->
 - [ ] `bun run typecheck` — <!-- green / N/A (docs-only) -->
