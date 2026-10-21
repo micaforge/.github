@@ -39,6 +39,7 @@ Issues and PRs welcome on any public repo. Start with the `SKILL.md` — it's th
 ## 📄 License
 
 MIT across the org. Do what you want, keep the notice.
+One exception: [sparkwright](https://github.com/micaforge/sparkwright) is AGPL-3.0 — copyleft, so the open core stays open.
 
 ---
 
