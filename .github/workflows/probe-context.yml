@@ -1,0 +1,8 @@
+# c04 scratch probe V8 — a job literally named `ci`; the reported check context is read from its check run.
+name: probe-context
+on: push
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "job named ci ok"

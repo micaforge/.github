@@ -1,0 +1,8 @@
+# c04 scratch probe — generates check runs on the scratch branch (push trigger).
+name: probe-push
+on: push
+jobs:
+  trivial:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "probe push workflow ok"

@@ -1,0 +1,9 @@
+# c04 scratch probe V2 — check_run listener living ONLY on this non-default branch.
+# If c02's inference holds (check_run workflows must live on the default branch), this never runs.
+name: probe-checkrun
+on: check_run
+jobs:
+  listener:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "check_run listener fired"
